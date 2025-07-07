@@ -2,30 +2,17 @@
 
 ## Equipe :
 
-#### M1 DEV WEB :
+## Equipe :
 
-- Clément VITRAT-GUTIERREZ
-- Enzo CHAMANIER
+#### M1 DEV WEB : *Clément VITRAT-GUTIERREZ, Enzo CHAMANIER*
 
-#### M1 DEV IOT :
+#### M1 DEV IOT : *Samy BOUDAOUD, Fayrouz SAADAOUI, Melvin TOMEZAK*
 
-- Melvin TOMEZAK
-- Fayrouz SAADAOUI
-- Samy BOUDAOUD
+#### M1 CYBER : *Enzo CANALE*
 
-#### M1 CYBER :
+#### M1 DATA : *Alexandre GUEYDAN, Emilia KARDACHE, Grégoire LABADIE*
 
-- Enzo CANALE
-
-#### M1 DATA :
-
-- Grégoire LABADIE
-- Emilia KARDACHE
-- Alexandre GUEYDAN
-
-#### M1 INFRA :
-
-- Billel SOUANE
+#### M1 INFRA : *Billel SOUANE*
 
 ## Description générale
 
