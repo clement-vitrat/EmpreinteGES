@@ -2,9 +2,9 @@
 
 // Importation des composants nécessaires
 import { useState } from 'react';
-import Header from '@/components/Header';
-import TransportForm from '@/components/Transport/TransportForm';
-import Footer from '@/components/Footer';
+import Header from './components/Header';
+import TransportForm from './components/Transport/TransportForm';
+import Footer from './components/Footer';
 
 
 // Page d'accueil du projet

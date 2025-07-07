@@ -1,7 +1,8 @@
 import React from 'react';
 import { Mail, Phone, MapPin, Facebook, Twitter, Instagram, Youtube, MailIcon } from 'lucide-react';
 import Image from 'next/image';
-import Favicon from '../app/public/favicon.ico'; 
+import Favicon from '../public/favicon.ico';
+
 
 
 // Composant Footer : pied de page du site

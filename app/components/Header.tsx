@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import { Menu, X, Train, BarChart3 } from 'lucide-react';
-import { Button } from '@/components/ui/button';
+import { Button } from '../components/ui/button';
 import Image from 'next/image';
 
 // Import du logo favicon depuis le dossier public
-import Favicon from '../app/public/favicon.ico'; 
+import Favicon from '../public/favicon.ico';
 
 // Composant d'en-tête principal
 const Header: React.FC = () => {

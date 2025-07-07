@@ -6,8 +6,8 @@ import {
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from '@/components/ui/select';
-import { Button } from '@/components/ui/button';
+} from '../ui/select';
+import { Button } from '../ui/button';
 import { Trash2, Car, Settings, MapPin, ArrowUpRightFromSquare } from 'lucide-react';
 import { TransportEntry } from '@/types/transport';
 
