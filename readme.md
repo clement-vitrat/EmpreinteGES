@@ -1,19 +1,5 @@
 # Transport Carbon Emission Calculator - EmpreinteGES
 
-## Equipe :
-
-## Equipe :
-
-#### M1 DEV WEB : *Clément VITRAT-GUTIERREZ, Enzo CHAMANIER*
-
-#### M1 DEV IOT : *Samy BOUDAOUD, Fayrouz SAADAOUI, Melvin TOMEZAK*
-
-#### M1 CYBER : *Enzo CANALE*
-
-#### M1 DATA : *Alexandre GUEYDAN, Emilia KARDACHE, Grégoire LABADIE*
-
-#### M1 INFRA : *Billel SOUANE*
-
 ## Description générale
 
 Ce projet est une application TypeScript permettant de modéliser différents trajets de transport (train, avion, etc.) et de calculer les émissions de carbone associées. Il facilite l'analyse de l'impact environnemental des déplacements en fonction du mode de transport, de la distance parcourue et des coefficients d'émission spécifiques.
@@ -122,4 +108,16 @@ npm start
 - **Modifie les trajets** dans `transportData.ts` pour ajouter ou modifier les déplacements.
 - **Utilise les fonctions** dans `carbonCalculations.ts` pour calculer les émissions selon tes besoins.
 - **Lance le projet** avec `npm start` ou `npm run dev` ou via ton IDE favori.
+
+## Equipe :
+
+#### M1 DEV WEB : *Clément VITRAT-GUTIERREZ, Enzo CHAMANIER*
+
+#### M1 DEV IOT : *Samy BOUDAOUD, Fayrouz SAADAOUI, Melvin TOMEZAK*
+
+#### M1 CYBER : *Enzo CANALE*
+
+#### M1 DATA : *Alexandre GUEYDAN, Emilia KARDACHE, Grégoire LABADIE*
+
+#### M1 INFRA : *Billel SOUANE*
 
