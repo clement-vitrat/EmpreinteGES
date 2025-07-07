@@ -33,6 +33,7 @@ Ce projet est une application TypeScript permettant de modéliser différents tr
 
 ## Architecture du projet
 
+```
 .
 ├── app/                      # Dossier principal pour l'application
 │   ├── components/              # Composants réutilisables
@@ -71,6 +72,7 @@ Ce projet est une application TypeScript permettant de modéliser différents tr
 ├── tailwind.config.ts       # Configuration Tailwind CSS
 ├── tsconfig.json            # Configuration TypeScript
 └── README.md                # Documentation du projet
+```
 
 ## Description des fichiers
 
@@ -133,5 +135,4 @@ npm start
 - **Modifie les trajets** dans `transportData.ts` pour ajouter ou modifier les déplacements.
 - **Utilise les fonctions** dans `carbonCalculations.ts` pour calculer les émissions selon tes besoins.
 - **Lance le projet** avec `npm start` ou `npm run dev` ou via ton IDE favori.
-  
 
